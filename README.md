@@ -22,4 +22,9 @@ commands: git branch
 
     git checkout -b <-new branch name->
 
+
 # solving merging in feature1 branch
+
+
+# solving merging conflicts
+an event that takes place when github is unable to automatically resolve difference in code between two commits
