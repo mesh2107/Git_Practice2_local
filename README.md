@@ -1,4 +1,4 @@
-#this is my practice of gihub to manage a local poject allong with github 
+# This is my practice of gihub to manage a local poject allong with github 
 
 There are some directories you need to know like 
 
