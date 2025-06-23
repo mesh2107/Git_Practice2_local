@@ -21,3 +21,7 @@ commands: git branch
     git branch -d <-branch name->
 
     git checkout -b <-new branch name->
+
+
+# solving merging conflicts
+an event that takes place when github is unable to automatically resolve difference in code between two commits
