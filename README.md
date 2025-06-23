@@ -21,3 +21,5 @@ commands: git branch
     git branch -d <-branch name->
 
     git checkout -b <-new branch name->
+
+# solving merging in feature1 branch
