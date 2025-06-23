@@ -9,3 +9,15 @@ cd .. : to come out or go back.
 mkdir : to make new directory 
 
 #1. init command : to initialize git inside that folder/ project 
+
+# Understanding branches:
+
+commands: git branch
+
+    git branch -M main
+
+    git checkout <-branch name->
+
+    git branch -d <-branch name->
+
+    git checkout -b <-new branch name->
